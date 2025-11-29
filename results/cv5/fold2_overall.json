@@ -1,0 +1,22 @@
+{
+  "micro_f1": 0.4905094905094905,
+  "macro_f1": 0.3775138315656293,
+  "weighted_f1": 0.48392561987298555,
+  "micro_precision": 0.4579369520611826,
+  "micro_recall": 0.5280705528070553,
+  "macro_precision": 0.4206342803660138,
+  "macro_recall": 0.37606704720784084,
+  "weighted_precision": 0.474942414289013,
+  "weighted_recall": 0.5280705528070553,
+  "subset_accuracy": 0.10724365004703669,
+  "hamming_loss": 0.04283698427630695,
+  "jaccard_samples": 0.3800072198072119,
+  "lrap": 0.5747836826581183,
+  "map_macro": 0.3261901073570703,
+  "map_micro": 0.4649234079856841,
+  "auc_micro": 0.907425349870036,
+  "balanced_accuracy_macro": 0.6741247118722917,
+  "mcc_macro": 0.3640656635605798,
+  "auc_macro": 0.8566797339642245,
+  "fold": 2
+}
